@@ -6,7 +6,6 @@ This repo is intended to let me play around with Shiny
 Dataset
 ---------
 
-Dataset can be found [on exversion] and in [this repo]
 
 Run in Docker
 -------------
