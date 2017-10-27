@@ -29,7 +29,7 @@ Log in credentials are:
  password: rstudio
 ```
 
-RStudio Server
+Server
 --------------
 
 By default RStudio accepts connections on port 8787. In this case Docker will be using port 9923, as it is stated in `config/rserver.conf`.
