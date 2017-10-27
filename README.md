@@ -3,9 +3,6 @@ README
 
 This repo is intended to let me play around with Shiny
 
-Dataset
----------
-
 
 Run in Docker
 -------------
